@@ -1,0 +1,8 @@
+C:\Users\plant\repos\BasicClassesExerfcise\BasicClassesExerfcise\bin\Debug\BasicClassesExerfcise.exe.config
+C:\Users\plant\repos\BasicClassesExerfcise\BasicClassesExerfcise\bin\Debug\BasicClassesExerfcise.exe
+C:\Users\plant\repos\BasicClassesExerfcise\BasicClassesExerfcise\bin\Debug\BasicClassesExerfcise.pdb
+C:\Users\plant\repos\BasicClassesExerfcise\BasicClassesExerfcise\obj\Debug\BasicClassesExerfcise.csproj.AssemblyReference.cache
+C:\Users\plant\repos\BasicClassesExerfcise\BasicClassesExerfcise\obj\Debug\BasicClassesExerfcise.csproj.SuggestedBindingRedirects.cache
+C:\Users\plant\repos\BasicClassesExerfcise\BasicClassesExerfcise\obj\Debug\BasicClassesExerfcise.csproj.CoreCompileInputs.cache
+C:\Users\plant\repos\BasicClassesExerfcise\BasicClassesExerfcise\obj\Debug\BasicClassesExerfcise.exe
+C:\Users\plant\repos\BasicClassesExerfcise\BasicClassesExerfcise\obj\Debug\BasicClassesExerfcise.pdb
